@@ -331,7 +331,7 @@ landing
 .landing {
   width: 100%;
   min-height: 100vh;
-  background-image: url(images/landing.jpg);
+  background-image: url(../images/landing.jpg);
   background-size: cover;
   background-position: center;
   background-color: rgba(0, 0, 0, 0.768);
@@ -500,7 +500,7 @@ design
   padding-top: 40px;
   padding-bottom: 40px;
   overflow: hidden;
-  background-image: url(images/design.jpg);
+  background-image: url(../images/design.jpg);
   background-size: cover;
   background-position: center;
   height: 400px;
@@ -778,7 +778,7 @@ stats
   display: flex;
   align-items: center;
   position: relative;
-  background-image: url(images/stats.jpg);
+  background-image: url(../images/stats.jpg);
   background-position: center;
   background-size: cover;
   min-height: 400px;
@@ -995,7 +995,7 @@ quote
 
 .quote {
   position: relative;
-  background-image: url(images/quote.jpg);
+  background-image: url(../images/quote.jpg);
   background-size: cover;
   color: white;
   height: 300px;
@@ -1151,7 +1151,7 @@ mail
   position: relative;
   padding-top: var(--mainPadding);
   padding-bottom: var(--mainPadding);
-  background-image: url(images/mail.jpg);
+  background-image: url(../images/mail.jpg);
   background-size: cover;
   height: 300px;
 }
@@ -1321,7 +1321,7 @@ footer
 
 footer {
   position: relative;
-  background-image: url(images/footer.jpg);
+  background-image: url(../images/footer.jpg);
   background-size: cover;
   background-position: center;
   height: 400px;
