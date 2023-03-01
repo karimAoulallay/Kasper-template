@@ -18,6 +18,7 @@
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- Local storage
 
 ## Author
 
